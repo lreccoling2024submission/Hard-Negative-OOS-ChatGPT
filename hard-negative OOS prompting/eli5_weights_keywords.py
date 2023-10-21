@@ -156,7 +156,7 @@ def write_eli5_results(number_to_word, number_to_intent, word_list, file_name):
         json.dump(file, f, indent=4)
 
 
-
+# note, as explained in the paper, this step is not used in generating hard negative OOS utterances
 # create a file that contains a sorted dict of frequent words
 # file_name should contain the in-scope training data stored in a json file that contain a list of tuples that contain [utterance, intent]
 analyze_weights(file_name)
