@@ -164,1540 +164,1540 @@
     "confidence HN OOS": [
         {
             "utterance": "can you show flight details for private jets",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.9602134",
             "energy confidence": "-5.9477687"
         },
         {
             "utterance": "can you show a flight demonstration",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.97977644",
             "energy confidence": "-6.202223"
         },
         {
             "utterance": "can you show a flight attendant's uniform",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.93584335",
             "energy confidence": "-5.3185544"
         },
         {
             "utterance": "is boston a popular destination for flight enthusiasts",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.99191564",
             "energy confidence": "-6.958489"
         },
         {
             "utterance": "can you recommend flights of stairs in boston for sightseeing",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.99794465",
             "energy confidence": "-8.262211"
         },
         {
             "utterance": "is san francisco a popular flight hub",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.9941607",
             "energy confidence": "-7.231095"
         },
         {
             "utterance": "can you show highlights of boston",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.6942348",
             "energy confidence": "-4.2171836"
         },
         {
             "utterance": "can you show popular attractions in boston",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "city",
             "model confidence": "0.2689229",
             "energy confidence": "-3.1450624"
         },
         {
             "utterance": "can you show me a map of boston",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "city",
             "model confidence": "0.24877363",
             "energy confidence": "-3.2985032"
         },
         {
             "utterance": "can you show the weather in boston",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "city",
             "model confidence": "0.20422031",
             "energy confidence": "-3.1294844"
         },
         {
             "utterance": "can you show me attractions in san francisco",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "abbreviation",
             "model confidence": "0.30182976",
             "energy confidence": "-3.2649162"
         },
         {
             "utterance": "can you show me hotels in san diego",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "abbreviation",
             "model confidence": "0.21739146",
             "energy confidence": "-3.117535"
         },
         {
             "utterance": "can you show me local cuisine in san antonio",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "meal",
             "model confidence": "0.22170998",
             "energy confidence": "-3.0793934"
         },
         {
             "utterance": "can you show me tourist spots in san jose",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "city",
             "model confidence": "0.3102389",
             "energy confidence": "-3.3143792"
         },
         {
             "utterance": "can you show live music venues in denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "capacity",
             "model confidence": "0.29770422",
             "energy confidence": "-3.481542"
         },
         {
             "utterance": "can you show hiking trails near denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "ground_service",
             "model confidence": "0.8220403",
             "energy confidence": "-4.276065"
         },
         {
             "utterance": "can you show me art galleries in denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "ground_service",
             "model confidence": "0.3643076",
             "energy confidence": "-3.7079425"
         },
         {
             "utterance": "can you show me the nightlife in denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.700685",
             "energy confidence": "-3.9658346"
         },
         {
             "utterance": "are there any similarities between boston and san francisco",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.87420017",
             "energy confidence": "-4.7067957"
         },
         {
             "utterance": "can you compare boston and san diego",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.96382505",
             "energy confidence": "-6.2622013"
         },
         {
             "utterance": "are there sports rivalries between boston and denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.38560715",
             "energy confidence": "-3.0486794"
         },
         {
             "utterance": "can you compare the climate in boston and denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "ground_service",
             "model confidence": "0.25133684",
             "energy confidence": "-3.1775885"
         },
         {
             "utterance": "are there cultural similarities between boston and denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.52873147",
             "energy confidence": "-3.492504"
         },
         {
             "utterance": "can you recommend restaurants in boston and denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "meal",
             "model confidence": "0.26867262",
             "energy confidence": "-3.1182992"
         },
         {
             "utterance": "what is the time difference between san francisco and denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight_time",
             "model confidence": "0.8735396",
             "energy confidence": "-4.709754"
         },
         {
             "utterance": "can you recommend outdoor activities in denver and san diego",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.54273045",
             "energy confidence": "-3.5130148"
         },
         {
             "utterance": "is san antonio more affordable than denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.9301018",
             "energy confidence": "-6.036024"
         },
         {
             "utterance": "can you recommend sightseeing spots in san francisco and denver",
-            "intented label": "flight",
+            "intended label": "flight",
             "predicted label": "flight",
             "model confidence": "0.784241",
             "energy confidence": "-4.138304"
         },
         {
             "utterance": "are there any time zone differences between san francisco and new york",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight",
             "model confidence": "0.23043811",
             "energy confidence": "-3.2288122"
         },
         {
             "utterance": "what time is sunset in san diego today",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.9009456",
             "energy confidence": "-4.950761"
         },
         {
             "utterance": "what is the local time in san francisco now",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.89138967",
             "energy confidence": "-4.826954"
         },
         {
             "utterance": "what time does the train arrive in san jose",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.91239095",
             "energy confidence": "-5.0091696"
         },
         {
             "utterance": "what time does the golden gate bridge open",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.89996654",
             "energy confidence": "-4.9308815"
         },
         {
             "utterance": "what time does the cable car start operating in san francisco",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.67175424",
             "energy confidence": "-3.960957"
         },
         {
             "utterance": "what time does the san francisco giants game start",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.9073196",
             "energy confidence": "-4.9582224"
         },
         {
             "utterance": "what time does the museum close in san francisco",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.89400035",
             "energy confidence": "-4.8237433"
         },
         {
             "utterance": "what time does the boston marathon start",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.9073624",
             "energy confidence": "-4.9849977"
         },
         {
             "utterance": "what time does the red sox game end",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.9058403",
             "energy confidence": "-4.947521"
         },
         {
             "utterance": "what time is the sunrise in boston tomorrow",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.9063525",
             "energy confidence": "-4.9886665"
         },
         {
             "utterance": "what time does the boston public library close",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.9032072",
             "energy confidence": "-4.9207025"
         },
         {
             "utterance": "is san francisco known for its food scene",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight",
             "model confidence": "0.23845376",
             "energy confidence": "-3.0265143"
         },
         {
             "utterance": "are there any parks in san francisco",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "city",
             "model confidence": "0.23792756",
             "energy confidence": "-3.3094416"
         },
         {
             "utterance": "what is the weather like in san francisco today",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "city",
             "model confidence": "0.15758353",
             "energy confidence": "-2.9997413"
         },
         {
             "utterance": "is san francisco a good city for sightseeing",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "city",
             "model confidence": "0.64957654",
             "energy confidence": "-3.90451"
         },
         {
             "utterance": "what are the top attractions in san francisco and boston",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight",
             "model confidence": "0.33544895",
             "energy confidence": "-3.1067784"
         },
         {
             "utterance": "are there direct train routes from san francisco to boston",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight",
             "model confidence": "0.4093558",
             "energy confidence": "-3.083844"
         },
         {
             "utterance": "what time is the game between the san francisco giants and the boston red sox",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight_time",
             "model confidence": "0.8957198",
             "energy confidence": "-4.907896"
         },
         {
             "utterance": "are there direct train routes from san francisco to boston",
-            "intented label": "flight_time",
+            "intended label": "flight_time",
             "predicted label": "flight",
             "model confidence": "0.4093558",
             "energy confidence": "-3.083844"
         },
         {
             "utterance": "can you show me the fare breakdown",
-            "intented label": "airfare",
+            "intended label": "airfare",
             "predicted label": "abbreviation",
             "model confidence": "0.69589216",
             "energy confidence": "-4.6315665"
         },
         {
             "utterance": "can i extend my round trip duration",
-            "intented label": "airfare",
+            "intended label": "airfare",
             "predicted label": "flight",
             "model confidence": "0.90809685",
             "energy confidence": "-5.146863"
         },
         {
             "utterance": "can you show me the in-flight entertainment options for the round trip",
-            "intented label": "airfare",
+            "intended label": "airfare",
             "predicted label": "flight",
             "model confidence": "0.97427523",
             "energy confidence": "-6.1614203"
         },
         {
             "utterance": "can you show me the flight status",
-            "intented label": "airfare",
+            "intended label": "airfare",
             "predicted label": "flight",
             "model confidence": "0.9638431",
             "energy confidence": "-5.811046"
         },
         {
             "utterance": "can you show me the in-flight entertainment options",
-            "intented label": "airfare",
+            "intended label": "airfare",
             "predicted label": "flight",
             "model confidence": "0.97730166",
             "energy confidence": "-6.018844"
         },
         {
             "utterance": "can you show me the flight route",
-            "intented label": "airfare",
+            "intended label": "airfare",
             "predicted label": "flight",
             "model confidence": "0.63946354",
             "energy confidence": "-3.9781704"
         },
         {
             "utterance": "are aircraft used for scientific research purposes",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "aircraft",
             "model confidence": "0.95488733",
             "energy confidence": "-5.4520764"
         },
         {
             "utterance": "can aircraft be used for aerial photography",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "aircraft",
             "model confidence": "0.953439",
             "energy confidence": "-5.4339767"
         },
         {
             "utterance": "what are the top attractions in boston for aircraft enthusiasts",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "aircraft",
             "model confidence": "0.6277746",
             "energy confidence": "-4.1395235"
         },
         {
             "utterance": "is boston a frequent stop for aircraft charter services",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "aircraft",
             "model confidence": "0.7248083",
             "energy confidence": "-4.5861793"
         },
         {
             "utterance": "what type of fuel is used in space missions",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "ground_fare",
             "model confidence": "0.3903516",
             "energy confidence": "-3.4608715"
         },
         {
             "utterance": "what type of communication is used in underwater exploration",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "flight",
             "model confidence": "0.22373994",
             "energy confidence": "-2.9882383"
         },
         {
             "utterance": "what type of software is used for video editing",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "flight",
             "model confidence": "0.29670826",
             "energy confidence": "-3.0756543"
         },
         {
             "utterance": "what type of paint is used for outdoor murals",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "abbreviation",
             "model confidence": "0.18803605",
             "energy confidence": "-2.9504373"
         },
         {
             "utterance": "what type of cuisine is popular in boston",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "meal",
             "model confidence": "0.32756102",
             "energy confidence": "-3.2646036"
         },
         {
             "utterance": "what type of architecture is prominent in boston",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "city",
             "model confidence": "0.22058474",
             "energy confidence": "-3.2808921"
         },
         {
             "utterance": "what type of transportation is available in boston",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "ground_service",
             "model confidence": "0.9858726",
             "energy confidence": "-6.593851"
         },
         {
             "utterance": "what type of music is popular in boston",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "quantity",
             "model confidence": "0.19842926",
             "energy confidence": "-3.0271118"
         },
         {
             "utterance": "what type of currency is used in boston",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "ground_fare",
             "model confidence": "0.15655762",
             "energy confidence": "-3.047905"
         },
         {
             "utterance": "what type of public transportation is used in boston",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "ground_service",
             "model confidence": "0.98230183",
             "energy confidence": "-6.3856654"
         },
         {
             "utterance": "what type of cuisine is commonly used in boston",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "meal",
             "model confidence": "0.338452",
             "energy confidence": "-3.271902"
         },
         {
             "utterance": "what type of technology is commonly used in boston's education sector",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "flight",
             "model confidence": "0.40338597",
             "energy confidence": "-3.185191"
         },
         {
             "utterance": "what type of fuel is used for space flights",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "ground_fare",
             "model confidence": "0.3570561",
             "energy confidence": "-3.3819225"
         },
         {
             "utterance": "what types of technology are used in virtual reality flight simulators",
-            "intented label": "aircraft",
+            "intended label": "aircraft",
             "predicted label": "flight",
             "model confidence": "0.58940107",
             "energy confidence": "-3.4522474"
         },
         {
             "utterance": "what are the advantages of using ground transportation",
-            "intented label": "ground_service",
+            "intended label": "ground_service",
             "predicted label": "ground_service",
             "model confidence": "0.9833066",
             "energy confidence": "-6.47077"
         },
         {
             "utterance": "are there parking facilities available downtown",
-            "intented label": "ground_service",
+            "intended label": "ground_service",
             "predicted label": "ground_service",
             "model confidence": "0.9735535",
             "energy confidence": "-6.0585585"
         },
         {
             "utterance": "are there public restrooms available downtown",
-            "intented label": "ground_service",
+            "intended label": "ground_service",
             "predicted label": "ground_service",
             "model confidence": "0.9167631",
             "energy confidence": "-5.059092"
         },
         {
             "utterance": "what is the significance of an airport's name",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "airport",
             "model confidence": "0.40382603",
             "energy confidence": "-3.8750231"
         },
         {
             "utterance": "what factors determine an airport's name",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "airport",
             "model confidence": "0.48836246",
             "energy confidence": "-4.037985"
         },
         {
             "utterance": "are airport names influenced by local culture",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "airport",
             "model confidence": "0.52465564",
             "energy confidence": "-4.0163684"
         },
         {
             "utterance": "can you recommend a hotel near the new delhi airport",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.1764261",
             "energy confidence": "-2.91157"
         },
         {
             "utterance": "what is the name of the famous street in denver",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.33959302",
             "energy confidence": "-3.5698712"
         },
         {
             "utterance": "what is the name of the denver broncos' stadium",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.34958148",
             "energy confidence": "-3.6434712"
         },
         {
             "utterance": "what is the name of the university in denver",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.34937343",
             "energy confidence": "-3.306336"
         },
         {
             "utterance": "what is the name of the famous mountain near denver",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.23493727",
             "energy confidence": "-3.3513417"
         },
         {
             "utterance": "what is the name of the famous bridge in new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.23540933",
             "energy confidence": "-3.3743825"
         },
         {
             "utterance": "what is the name of the famous museum in new orleans?\n",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.32295224",
             "energy confidence": "-3.3650436"
         },
         {
             "utterance": "what is the name of the main library in newark",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.3217552",
             "energy confidence": "-3.455188"
         },
         {
             "utterance": "what is the name of the famous park in new york city",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.35810962",
             "energy confidence": "-3.5310972"
         },
         {
             "utterance": "what is the name of the famous theater in new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "capacity",
             "model confidence": "0.22986075",
             "energy confidence": "-3.2399836"
         },
         {
             "utterance": "what is the name of the famous art museum in new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.32809895",
             "energy confidence": "-3.56285"
         },
         {
             "utterance": "what is the name of the famous university in new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.27405834",
             "energy confidence": "-3.2681088"
         },
         {
             "utterance": "what is the name of the famous cathedral in new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.38473287",
             "energy confidence": "-3.4363048"
         },
         {
             "utterance": "is there a direct train from denver to newark",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "flight",
             "model confidence": "0.67716837",
             "energy confidence": "-3.817164"
         },
         {
             "utterance": "what are the time zone differences between denver and new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "flight_time",
             "model confidence": "0.67279065",
             "energy confidence": "-3.9993854"
         },
         {
             "utterance": "what is the time difference between denver and new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "flight_time",
             "model confidence": "0.8728444",
             "energy confidence": "-4.73474"
         },
         {
             "utterance": "what are the popular attractions in denver and new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "flight",
             "model confidence": "0.28840473",
             "energy confidence": "-3.0941842"
         },
         {
             "utterance": "what is the population of new york city",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "capacity",
             "model confidence": "0.36507607",
             "energy confidence": "-3.7764063"
         },
         {
             "utterance": "what are the top landmarks in new york city",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "city",
             "model confidence": "0.43807328",
             "energy confidence": "-3.648732"
         },
         {
             "utterance": "what is the new york stock exchange",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "flight",
             "model confidence": "0.37654698",
             "energy confidence": "-3.276289"
         },
         {
             "utterance": "what are some popular broadway shows in new york",
-            "intented label": "airport",
+            "intended label": "airport",
             "predicted label": "flight",
             "model confidence": "0.6849918",
             "energy confidence": "-3.6508396"
         },
         {
             "utterance": "what attractions are there in denver",
-            "intented label": "airline",
+            "intended label": "airline",
             "predicted label": "city",
             "model confidence": "0.27320927",
             "energy confidence": "-3.3677506"
         },
         {
             "utterance": "can i bring a pet on my flight to boston",
-            "intented label": "airline",
+            "intended label": "airline",
             "predicted label": "flight",
             "model confidence": "0.71787643",
             "energy confidence": "-3.785536"
         },
         {
             "utterance": "what are the popular attractions in boston and denver",
-            "intented label": "airline",
+            "intended label": "airline",
             "predicted label": "flight",
             "model confidence": "0.35826302",
             "energy confidence": "-3.154092"
         },
         {
             "utterance": "what is the time difference between boston and denver",
-            "intented label": "airline",
+            "intended label": "airline",
             "predicted label": "flight_time",
             "model confidence": "0.8734335",
             "energy confidence": "-4.7305546"
         },
         {
             "utterance": "what is the weather like in denver for flying",
-            "intented label": "airline",
+            "intended label": "airline",
             "predicted label": "city",
             "model confidence": "0.14450757",
             "energy confidence": "-2.951682"
         },
         {
             "utterance": "are there any far airports",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "airport",
             "model confidence": "0.3492355",
             "energy confidence": "-3.950473"
         },
         {
             "utterance": "is airport distance important",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "distance",
             "model confidence": "0.51947933",
             "energy confidence": "-3.9035287"
         },
         {
             "utterance": "is downtown near the airport",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "ground_service",
             "model confidence": "0.51739645",
             "energy confidence": "-3.744424"
         },
         {
             "utterance": "is the airport wait long",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "airport",
             "model confidence": "0.49027836",
             "energy confidence": "-3.999934"
         },
         {
             "utterance": "are airport lines long",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "airport",
             "model confidence": "0.3820539",
             "energy confidence": "-3.6575222"
         },
         {
             "utterance": "is the airport runway long",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "airport",
             "model confidence": "0.41975096",
             "energy confidence": "-3.897149"
         },
         {
             "utterance": "is downtown far away",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "city",
             "model confidence": "0.335142",
             "energy confidence": "-3.4363978"
         },
         {
             "utterance": "is downtown within reach",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "ground_service",
             "model confidence": "0.45022884",
             "energy confidence": "-3.5805435"
         },
         {
             "utterance": "is downtown too far to walk",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "distance",
             "model confidence": "0.5086577",
             "energy confidence": "-3.5195308"
         },
         {
             "utterance": "are airport layovers long",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "airport",
             "model confidence": "0.52780104",
             "energy confidence": "-4.0860634"
         },
         {
             "utterance": "is the distance worth the effort",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "distance",
             "model confidence": "0.6815234",
             "energy confidence": "-3.9766078"
         },
         {
             "utterance": "is downtown within walking distance",
-            "intented label": "distance",
+            "intended label": "distance",
             "predicted label": "ground_service",
             "model confidence": "0.49038923",
             "energy confidence": "-3.6660545"
         },
         {
             "utterance": "what is the meaning of the code for john doe's identification",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.85568756",
             "energy confidence": "-4.554073"
         },
         {
             "utterance": "is there a specific access code for john doe's personal files",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.6629134",
             "energy confidence": "-3.7146552"
         },
         {
             "utterance": "does john doe have a secret code",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.88027656",
             "energy confidence": "-4.787926"
         },
         {
             "utterance": "is there a dress code for the doe family reunion",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.6599933",
             "energy confidence": "-3.8711383"
         },
         {
             "utterance": "what does the dress code mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.73020416",
             "energy confidence": "-3.9632316"
         },
         {
             "utterance": "what does the bar code mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.90681624",
             "energy confidence": "-5.022543"
         },
         {
             "utterance": "what does the qr code mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.8985627",
             "energy confidence": "-4.90537"
         },
         {
             "utterance": "what does the zip code mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.7555639",
             "energy confidence": "-4.1028414"
         },
         {
             "utterance": "what does john doe's email address mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.5190622",
             "energy confidence": "-3.5939133"
         },
         {
             "utterance": "what does john doe's job title mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.6044178",
             "energy confidence": "-3.8847475"
         },
         {
             "utterance": "what does john doe's middle name mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.5283804",
             "energy confidence": "-3.51899"
         },
         {
             "utterance": "what does john doe's nickname mean",
-            "intented label": "abbreviation",
+            "intended label": "abbreviation",
             "predicted label": "abbreviation",
             "model confidence": "0.7954052",
             "energy confidence": "-4.256824"
         },
         {
             "utterance": "what is the average cost of renting a limousine for a wedding",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.77357423",
             "energy confidence": "-4.1253037"
         },
         {
             "utterance": "what is the cost of a limousine for a prom night",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.7287788",
             "energy confidence": "-4.1104293"
         },
         {
             "utterance": "how much does a luxury car rental cost per day",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.78358984",
             "energy confidence": "-4.2040467"
         },
         {
             "utterance": "what is the cost of buying a used car",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.782776",
             "energy confidence": "-4.1332226"
         },
         {
             "utterance": "what is the average cost of car maintenance",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.7959677",
             "energy confidence": "-4.1419287"
         },
         {
             "utterance": "what is the cost of car insurance",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.8116823",
             "energy confidence": "-4.2239943"
         },
         {
             "utterance": "what is the cost of a vacation home rental",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.5569744",
             "energy confidence": "-4.1806602"
         },
         {
             "utterance": "what is the cost of a boat rental",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.5141483",
             "energy confidence": "-4.143012"
         },
         {
             "utterance": "what is the cost of equipment rental",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.67248386",
             "energy confidence": "-4.0061493"
         },
         {
             "utterance": "how much does the internet service cost",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.9773628",
             "energy confidence": "-6.2712226"
         },
         {
             "utterance": "how much does the gym membership cost",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.97957313",
             "energy confidence": "-6.356404"
         },
         {
             "utterance": "how much does the concert ticket cost",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.97952706",
             "energy confidence": "-6.3394113"
         },
         {
             "utterance": "how much does the spa treatment cost",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.9782522",
             "energy confidence": "-6.299881"
         },
         {
             "utterance": "can i rent a limousine that looks like a vintage car",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_service",
             "model confidence": "0.94805264",
             "energy confidence": "-5.650813"
         },
         {
             "utterance": "can a limousine be converted into a self-driving car",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_service",
             "model confidence": "0.9124699",
             "energy confidence": "-5.268165"
         },
         {
             "utterance": "what is the difference between a limousine and a regular car",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_service",
             "model confidence": "0.83937544",
             "energy confidence": "-4.8783717"
         },
         {
             "utterance": "what are the requirements for limousine rental",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_service",
             "model confidence": "0.8509914",
             "energy confidence": "-4.912007"
         },
         {
             "utterance": "what is the process for booking a limousine rental",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_service",
             "model confidence": "0.88251895",
             "energy confidence": "-4.803848"
         },
         {
             "utterance": "what is the minimum age for car rentals",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.22932932",
             "energy confidence": "-3.2071362"
         },
         {
             "utterance": "how much does a luxury car cost to buy",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.757271",
             "energy confidence": "-4.1171694"
         },
         {
             "utterance": "how much does a car lease cost per month",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.7785397",
             "energy confidence": "-4.147376"
         },
         {
             "utterance": "how much does a vacation rental cost",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.963278",
             "energy confidence": "-5.9187994"
         },
         {
             "utterance": "how much does a bike rental cost per hour",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.43821752",
             "energy confidence": "-4.144231"
         },
         {
             "utterance": "what is the cost of equipment rental per day",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "ground_fare",
             "model confidence": "0.65916723",
             "energy confidence": "-3.9905632"
         },
         {
             "utterance": "how much does a vacation home rental cost per week",
-            "intented label": "ground_fare",
+            "intended label": "ground_fare",
             "predicted label": "airfare",
             "model confidence": "0.8358913",
             "energy confidence": "-4.849466"
         },
         {
             "utterance": "is there a dress code for first class flights",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "abbreviation",
             "model confidence": "0.47251198",
             "energy confidence": "-3.5125513"
         },
         {
             "utterance": "does economy class have many amenities compared to business class",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.69693905",
             "energy confidence": "-4.0349607"
         },
         {
             "utterance": "is there many doughnut shops in this city",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "capacity",
             "model confidence": "0.22328632",
             "energy confidence": "-3.221969"
         },
         {
             "utterance": "is there a bakery that sells many different types of croissants",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "abbreviation",
             "model confidence": "0.21536015",
             "energy confidence": "-3.0847237"
         },
         {
             "utterance": "are there many options for outdoor activities in this area",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.61100227",
             "energy confidence": "-3.487975"
         },
         {
             "utterance": "are there many deer in this national park",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "city",
             "model confidence": "0.17693526",
             "energy confidence": "-2.9750192"
         },
         {
             "utterance": "are there many first-time visitors to this museum",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.21704866",
             "energy confidence": "-3.0315266"
         },
         {
             "utterance": "do many people choose first-floor apartments",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.5373972",
             "energy confidence": "-3.4574482"
         },
         {
             "utterance": "is there a flight attendant named john doe",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.9350871",
             "energy confidence": "-5.214916"
         },
         {
             "utterance": "does the flight path pass over doe creek",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.96976054",
             "energy confidence": "-5.85246"
         },
         {
             "utterance": "do infants fly in first class",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.9272252",
             "energy confidence": "-5.2830114"
         },
         {
             "utterance": "is john doe taking a first-class flight",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.99514693",
             "energy confidence": "-7.5045943"
         },
         {
             "utterance": "is there a doe family reunion in first class",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.48821968",
             "energy confidence": "-3.3614004"
         },
         {
             "utterance": "can john doe bring a guest to the first-class lounge",
-            "intented label": "quantity",
+            "intended label": "quantity",
             "predicted label": "flight",
             "model confidence": "0.9128941",
             "energy confidence": "-5.33518"
         },
         {
             "utterance": "what are the popular international destinations from this city",
-            "intented label": "city",
+            "intended label": "city",
             "predicted label": "flight",
             "model confidence": "0.29978326",
             "energy confidence": "-3.2713938"
         },
         {
             "utterance": "can you show me the city's top attractions",
-            "intented label": "city",
+            "intended label": "city",
             "predicted label": "city",
             "model confidence": "0.5093391",
             "energy confidence": "-3.5669646"
         },
         {
             "utterance": "can you show me the city's current weather",
-            "intented label": "city",
+            "intended label": "city",
             "predicted label": "city",
             "model confidence": "0.3363346",
             "energy confidence": "-3.3179712"
         },
         {
             "utterance": "what is the contact number for hotels in minneapolis",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.57932115",
             "energy confidence": "-4.060905"
         },
         {
             "utterance": "what is the emergency contact number for minneapolis",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.57131386",
             "energy confidence": "-4.0455146"
         },
         {
             "utterance": "what is the phone number for the minneapolis tourism office",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.55971295",
             "energy confidence": "-4.003029"
         },
         {
             "utterance": "what is the contact number for hotels in san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.5854856",
             "energy confidence": "-4.056504"
         },
         {
             "utterance": "is there a phone number for the san diego zoo",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.515527",
             "energy confidence": "-3.971355"
         },
         {
             "utterance": "what is the phone number for the san francisco giants ticket office",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.56478995",
             "energy confidence": "-4.0076823"
         },
         {
             "utterance": "what is the contact number for the san francisco public library",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.5846853",
             "energy confidence": "-4.029706"
         },
         {
             "utterance": "what is the phone number for san francisco city hall",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.5532939",
             "energy confidence": "-3.9982784"
         },
         {
             "utterance": "what is the phone number for the san francisco museum of modern art",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.5594108",
             "energy confidence": "-3.9900389"
         },
         {
             "utterance": "what is the customer service number for san francisco cable cars",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_no",
             "model confidence": "0.56127495",
             "energy confidence": "-4.057558"
         },
         {
             "utterance": "what is the weather like in minneapolis and san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "city",
             "model confidence": "0.16194497",
             "energy confidence": "-2.960147"
         },
         {
             "utterance": "what are the time zone differences between minneapolis and san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_time",
             "model confidence": "0.78685874",
             "energy confidence": "-4.3691006"
         },
         {
             "utterance": "what attractions are there in minneapolis and san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "city",
             "model confidence": "0.26455718",
             "energy confidence": "-3.192183"
         },
         {
             "utterance": "what is the cost of living in minneapolis compared to san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "airfare",
             "model confidence": "0.9781317",
             "energy confidence": "-6.305053"
         },
         {
             "utterance": "what is the best time to visit san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "flight_time",
             "model confidence": "0.85275334",
             "energy confidence": "-4.7438507"
         },
         {
             "utterance": "what is the hotel availability in san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "city",
             "model confidence": "0.1551889",
             "energy confidence": "-3.120356"
         },
         {
             "utterance": "what is the public transportation system like in san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "ground_service",
             "model confidence": "0.97688895",
             "energy confidence": "-6.165332"
         },
         {
             "utterance": "what are the popular tourist attractions in san francisco",
-            "intented label": "flight_no",
+            "intended label": "flight_no",
             "predicted label": "city",
             "model confidence": "0.31757087",
             "energy confidence": "-3.1196563"
         },
         {
             "utterance": "how many gallons is the fuel capacity of a standard car",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "quantity",
             "model confidence": "0.3517587",
             "energy confidence": "-3.9992101"
         },
         {
             "utterance": "how many songs can a 16gb ipod hold",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "quantity",
             "model confidence": "0.7676198",
             "energy confidence": "-4.3448024"
         },
         {
             "utterance": "how many people can sit in a movie theater row",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "quantity",
             "model confidence": "0.73143685",
             "energy confidence": "-4.2483134"
         },
         {
             "utterance": "how many guests can a dining table accommodate",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "quantity",
             "model confidence": "0.6705086",
             "energy confidence": "-4.170079"
         },
         {
             "utterance": "are there many seating options available at the park",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "capacity",
             "model confidence": "0.2579469",
             "energy confidence": "-3.1672125"
         },
         {
             "utterance": "are there many people attending the concert",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "capacity",
             "model confidence": "0.22258542",
             "energy confidence": "-3.458398"
         },
         {
             "utterance": "how many people are on the guest list for the party",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "quantity",
             "model confidence": "0.8164324",
             "energy confidence": "-4.4000382"
         },
         {
             "utterance": "are there many people in line for the movie premiere",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "flight",
             "model confidence": "0.23299734",
             "energy confidence": "-3.1706975"
         },
         {
             "utterance": "is there allocated seating for every guest at the wedding reception",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "capacity",
             "model confidence": "0.2888964",
             "energy confidence": "-3.2295105"
         },
         {
             "utterance": "are there assigned seating for people at the event",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "capacity",
             "model confidence": "0.33640262",
             "energy confidence": "-3.2933486"
         },
         {
             "utterance": "are there designated seating areas for certain groups of people",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "capacity",
             "model confidence": "0.38177827",
             "energy confidence": "-3.446366"
         },
         {
             "utterance": "are the seating positions ergonomically designed for comfortable seating",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "flight",
             "model confidence": "0.54860145",
             "energy confidence": "-3.2988417"
         },
         {
             "utterance": "do all the people have assigned seats at the theater",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "flight",
             "model confidence": "0.19951548",
             "energy confidence": "-3.0039513"
         },
         {
             "utterance": "are there designated seating areas for different groups of people",
-            "intented label": "capacity",
+            "intended label": "capacity",
             "predicted label": "capacity",
             "model confidence": "0.36087623",
             "energy confidence": "-3.4065335"
         },
         {
             "utterance": "what are the meal options at restaurants in atlanta",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "meal",
             "model confidence": "0.3977288",
             "energy confidence": "-3.2697427"
         },
         {
             "utterance": "are there any meal discounts available",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "airfare",
             "model confidence": "0.25293645",
             "energy confidence": "-3.2419157"
         },
         {
             "utterance": "are there any meal delivery services available",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "meal",
             "model confidence": "0.3032668",
             "energy confidence": "-3.0633388"
         },
         {
             "utterance": "can you show me the meal preparation process",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "abbreviation",
             "model confidence": "0.3005148",
             "energy confidence": "-3.2416615"
         },
         {
             "utterance": "can you show me the flight gate number",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "flight_no",
             "model confidence": "0.64087343",
             "energy confidence": "-4.0851984"
         },
         {
             "utterance": "are there any hotels available in atlanta",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "city",
             "model confidence": "0.14182174",
             "energy confidence": "-2.8903606"
         },
         {
             "utterance": "are there any shopping malls available in atlanta",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "ground_service",
             "model confidence": "0.6670323",
             "energy confidence": "-4.072787"
         },
         {
             "utterance": "are there any tourist attractions available in atlanta",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "city",
             "model confidence": "0.22593029",
             "energy confidence": "-3.1884449"
         },
         {
             "utterance": "can you show me the atlanta city map",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "city",
             "model confidence": "0.3483081",
             "energy confidence": "-3.528143"
         },
         {
             "utterance": "can you show me the atlanta weather forecast",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "flight",
             "model confidence": "0.21431693",
             "energy confidence": "-3.0695405"
         },
         {
             "utterance": "can you show me the atlanta traffic conditions",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "ground_service",
             "model confidence": "0.6751747",
             "energy confidence": "-3.8196821"
         },
         {
             "utterance": "can you show me the atlanta skyline",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "city",
             "model confidence": "0.46963063",
             "energy confidence": "-3.6196606"
         },
         {
             "utterance": "can you show me the available parking spaces",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "ground_service",
             "model confidence": "0.95570934",
             "energy confidence": "-5.608771"
         },
         {
             "utterance": "can you show me the available hotel rooms",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "city",
             "model confidence": "0.14108892",
             "energy confidence": "-3.0340617"
         },
         {
             "utterance": "can you show me the available concert tickets",
-            "intented label": "meal",
+            "intended label": "meal",
             "predicted label": "airfare",
             "model confidence": "0.9245897",
             "energy confidence": "-5.1668143"
         },
         {
             "utterance": "is ap57 applicable to flights from pittsburgh",
-            "intented label": "restriction",
+            "intended label": "restriction",
             "predicted label": "flight",
             "model confidence": "0.9965456",
             "energy confidence": "-7.834967"
         },
         {
             "utterance": "is ap57 a preferred choice for flights from pittsburgh",
-            "intented label": "restriction",
+            "intended label": "restriction",
             "predicted label": "flight",
             "model confidence": "0.99469346",
             "energy confidence": "-7.4732814"
         },
         {
             "utterance": "what are the benefits of air travel over a regular flight",
-            "intented label": "restriction",
+            "intended label": "restriction",
             "predicted label": "flight",
             "model confidence": "0.8602963",
             "energy confidence": "-5.482912"
