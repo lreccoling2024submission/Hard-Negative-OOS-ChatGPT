@@ -103,7 +103,7 @@ def collecting_training_data(file_name):
 
 
 # create a dict that contains a sorted dict of frequent words
-file_name should contain the in-scope training data stored in a json file that contain a list of tuples that contain [utterance, intent]
+# file_name should contain the in-scope training data stored in a json file that contain a list of tuples that contain [utterance, intent]
 dict = most_frequent_words(filename)
 
 # write 5 most frequent words in a file
