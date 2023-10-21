@@ -2,8 +2,7 @@ import json
 import numpy as np
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
-from sklearn.feature_extraction.text import CountVectorizer
-import random
+
 
 nltk.download('wordnet')
 nltk.download('stopwords')
