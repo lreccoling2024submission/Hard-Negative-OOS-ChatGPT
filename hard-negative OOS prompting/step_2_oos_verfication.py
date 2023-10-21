@@ -12,7 +12,7 @@ with open('keys.json', 'r') as f:
 
 openai.api_key = _keys['openai']
 
-
+# collect the generated hard negative OOS after step 1 of 2-step OOS verification
 f = open('organized_h_n.json.json')
 data = json.load(f)
 f.close()
@@ -80,7 +80,8 @@ for sample in source:
         sample[1],
         chat_response
     ])
-    with open('h_n_clinc_gpt_scope_check', 'w') as f:
+    # save the results in a file
+    with open('step_2_gpt_scope_check.json', 'w') as f:
         json.dump(finished_data, f, indent=4)
 
     # this is added to avoid API for timing out due to too frequent requests
