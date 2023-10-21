@@ -24,7 +24,7 @@ openai.api_key = _keys['openai']
 result_file_name = "h_n_oos_conversation.json"
 
 # Check if there is already hard-negative OOS generated
-if os.path.exists(file_path):
+if os.path.exists(result_file_name):
   first_generation = False
   f = open(result_file_name)
     data = json.load(f)
@@ -177,7 +177,7 @@ for intent in source:
                     'output': sentence,
                     'in_scope': chat_response,
                 })
-                with open(doc_name, 'w') as f:
+                with open(result_file_name, 'w') as f:
                     json.dump(data, f, indent=4)
                 i += 1
                 skip = False
