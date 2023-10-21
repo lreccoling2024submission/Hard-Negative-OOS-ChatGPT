@@ -81,7 +81,7 @@ for sample in source:
         chat_response
     ])
     # save the results in a file
-    with open('step_2_gpt_scope_check.json', 'w') as f:
+    with open(result_file_name, 'w') as f:
         json.dump(finished_data, f, indent=4)
 
     # this is added to avoid API for timing out due to too frequent requests
