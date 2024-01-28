@@ -17,7 +17,7 @@ The 'oos_in_training_results' folder contain results and code from evaluating th
 
 Additional Data (Note: the three tables were the only content in the respository edited after submission):
 
-Performance comparison between OOS data with the INS data of a BERT model (table 3. in the paper)
+Performance comparison between OOS data with the INS data of a BERT model via Softmax confidence score (table 3. in the paper)
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
@@ -28,7 +28,7 @@ Performance comparison between OOS data with the INS data of a BERT model (table
 |   HWU64   |       0.921       |     0.917    |       0.971      |    0.988    |       0.392       |     0.462    |
 
 
-Performance comparison between OOS data with the INS data of a roBERTa model
+Performance comparison between OOS data with the INS data of a roBERTa model via Softmax confidence score
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
@@ -39,7 +39,7 @@ Performance comparison between OOS data with the INS data of a roBERTa model
 |   HWU64   |       0.907       |     0.899    |       0.969      |    0.986    |       0.463       |     0.507    |
 
 
-Performance comparison between OOS data with the INS data of a distilERT model
+Performance comparison between OOS data with the INS data of a distilERT model via Softmax confidence score
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
@@ -48,3 +48,37 @@ Performance comparison between OOS data with the INS data of a distilERT model
 |    ATIS   |       0.986       |     0.977    |       0.990      |    0.994    |       0.011       |     0.077    |
 |   Snips   |       0.966       |     0.891    |       0.984      |    0.995    |       0.149       |     0.400    |
 |   HWU64   |       0.930       |     0.917    |       0.976      |    0.987    |       0.397       |     0.462    |
+
+
+
+Performance comparison between OOS data with the INS data of a BERT model via energy score
+
+|  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
+|-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
+| Clinc-150 |       0.973       |     0.992    |       0.484      |    0.632    |       0.004       |     0.004    |
+| Banking77 |       0.978       |     0.825    |       0.727      |    0.618    |       0.000       |     0.000    |
+|    ATIS   |       0.970       |     0.957    |       0.699      |    0.371    |       0.000       |     0.000    |
+|   Snips   |       0.963       |     0.858    |       0.500      |    0.095    |       0.000       |     0.000    |
+|   HWU64   |       0.932       |     0.930    |       0.427      |    0.252    |       0.002       |     0.002    |
+
+
+Performance comparison between OOS data with the INS data of a roBERTa model via energy score
+
+|  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
+|-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
+| Clinc-150 |       0.967       |     0.898    |       0.483      |    0.628    |       0.001       |     0.000    |
+| Banking77 |       0.982       |     0.842    |       0.727      |    0.623    |       0.000       |     0.000    |
+|    ATIS   |       0.980       |     0.964    |       0.693      |    0.373    |       0.000       |     0.000    |
+|   Snips   |       0.949       |     0.885    |       0.497      |    0.094    |       0.000       |     0.000    |
+|   HWU64   |       0.928       |     0.924    |       0.425      |    0.251    |       0.001       |     0.000    |
+
+
+Performance comparison between OOS data with the INS data of a distilERT model via energy score
+
+|  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
+|-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
+| Clinc-150 |       0.965       |     0.869    |       0.483      |    0.621    |       0.000       |     0.004    |
+| Banking77 |       0.978       |     0.853    |       0.728      |    0.625    |       0.000       |     0.016    |
+|    ATIS   |       0.986       |     0.976    |       0.693      |    0.374    |       0.000       |     0.000    |
+|   Snips   |       0.968       |     0.902    |       0.500      |    0.099    |       0.000       |     0.000    |
+|   HWU64   |       0.935       |     0.931    |       0.428      |    0.265    |       0.001       |     0.002    |
