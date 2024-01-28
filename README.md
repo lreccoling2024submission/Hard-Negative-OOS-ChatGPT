@@ -15,9 +15,10 @@ The 'evaluation results' folder contain results from evaluating 'ATIS', 'Banking
 
 The 'oos_in_training_results' folder contain results and code from evaluating the five datasets on BERT when we used:(1) in-scope and general out-of-scope (2) in-scope and hard-negative out-of-scope (3) in-scope, general out-of-scope, and hard-negative out-of-scope, in training. 
 
-Additional Data (Note: the three tables were the only content in the respository edited after submission):
+Additional Data:
+Note: the tables were the only content in the respository edited after submission. The data in the tables is not new. They are taken from the json files in the "evaluation results" folder.
 
-Performance comparison between OOS data with the INS data of a BERT model via Softmax confidence score (table 3. in the paper)
+Performance comparison between OOS data with the INS data of a BERT model via Softmax confidence score (same as table 3. in the paper)
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
@@ -39,7 +40,7 @@ Performance comparison between OOS data with the INS data of a roBERTa model via
 |   HWU64   |       0.907       |     0.899    |       0.969      |    0.986    |       0.463       |     0.507    |
 
 
-Performance comparison between OOS data with the INS data of a distilERT model via Softmax confidence score
+Performance comparison between OOS data with the INS data of a DistilBERT model via Softmax confidence score
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
@@ -73,7 +74,7 @@ Performance comparison between OOS data with the INS data of a roBERTa model via
 |   HWU64   |       0.928       |     0.924    |       0.425      |    0.251    |       0.001       |     0.000    |
 
 
-Performance comparison between OOS data with the INS data of a distilERT model via energy score
+Performance comparison between OOS data with the INS data of a DistilBERT model via energy score
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
