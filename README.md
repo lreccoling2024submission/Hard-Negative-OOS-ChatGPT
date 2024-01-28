@@ -17,7 +17,7 @@ The 'oos_in_training_results' folder contain results and code from evaluating th
 
 Additional Data (Note: the three tables were the only content in the respository edited after submission):
 
-Performance comparison between OOS data with the INS data of a BERT model
+Performance comparison between OOS data with the INS data of a BERT model (table 3. in the paper)
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
