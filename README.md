@@ -29,7 +29,7 @@ Performance comparison between OOS data with the INS data of a BERT model via So
 |   HWU64   |       0.921       |     0.917    |       0.971      |    0.988    |       0.392       |     0.462    |
 
 
-Performance comparison between OOS data with the INS data of a roBERTa model via Softmax confidence score
+Performance comparison between OOS data with the INS data of a RoBERTa model via Softmax confidence score
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
@@ -63,7 +63,7 @@ Performance comparison between OOS data with the INS data of a BERT model via en
 |   HWU64   |       0.932       |     0.930    |       0.427      |    0.252    |       0.002       |     0.002    |
 
 
-Performance comparison between OOS data with the INS data of a roBERTa model via energy score
+Performance comparison between OOS data with the INS data of a RoBERTa model via energy score
 
 |  Dataset  | AUROC General OOS | AUROC HN OOS | AUPR General OOS | AUPR HN OOS | FPR95 General OOS | FPR95 HN OOS |
 |-----------|-------------------|--------------|------------------|-------------|-------------------|--------------|
