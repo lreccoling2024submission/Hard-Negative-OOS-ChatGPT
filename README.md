@@ -16,6 +16,7 @@ The 'evaluation results' folder contain results from evaluating 'ATIS', 'Banking
 The 'oos_in_training_results' folder contain results and code from evaluating the five datasets on BERT when we used:(1) in-scope and general out-of-scope (2) in-scope and hard-negative out-of-scope (3) in-scope, general out-of-scope, and hard-negative out-of-scope, in training. 
 
 Additional Data:
+
 Note: the tables were the only content in the respository edited after submission. The data in the tables is not new. They are taken from the json files in the "evaluation results" folder.
 
 Performance comparison between OOS data with the INS data of a BERT model via Softmax confidence score (same as table 3. in the paper)
