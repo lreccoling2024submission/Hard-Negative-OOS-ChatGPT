@@ -36,7 +36,7 @@ Performance comparison between OOS data with the INS data of a roBERTa model
 | Banking77 |       0.965       |     0.812    |       0.960      |    0.831    |       0.189       |     0.685    |
 |    ATIS   |       0.976       |     0.961    |       0.981      |    0.991    |       0.146       |     0.255    |
 |   Snips   |       0.931       |     0.855    |       0.969      |    0.994    |       0.384       |     0.567    |
-|   HWU64   |       0.907       |     0.899    |       0.982      |    0.986    |       0.463       |     0.507    |
+|   HWU64   |       0.907       |     0.899    |       0.969      |    0.986    |       0.463       |     0.507    |
 
 
 Performance comparison between OOS data with the INS data of a distilERT model
