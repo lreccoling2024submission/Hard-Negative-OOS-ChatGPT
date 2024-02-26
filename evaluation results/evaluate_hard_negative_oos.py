@@ -93,7 +93,7 @@ metric = tf.keras.metrics.SparseCategoricalAccuracy('accuracy')
 model.compile(optimizer=optimizer, loss=loss, metrics=[metric])
 
 # Training the model
-model.fit(x_to_tensor, y_to_np_array, epochs=4, batch_size=32)
+model.fit(x_to_tensor, y_to_np_array, epochs=5, batch_size=32)
 
 t = 1.0
 
